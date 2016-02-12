@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>My profile</title>
+  <link rel="stylesheet" type="text/css" href="style.css" 
+</head>
+<body leftmargin=100 topmargin=50>
+  <h1><center>Profile</center></h1>
+  <img src="usman.jpg" width=350 height=470 align="left" hspace=50 />
+  <section>
+    <h2><b>About me</b></h2>
+    <p>NAME:<b>Mohammed Usman</b><br>
+       AGE:19<br>
+       DOB:28/01/1997<br>
+       COLLEGE:<b>UVCE</b></p>
+    <p>I am from Bangalore(India). I did my school in Good shepherd school <br>
+       and PU in St. Joseph's pu college.And currently doing my B.E<br>
+       in computer science in UVCE.</p>
+    <p>My father is an Accountant and my mom is housewife.<br>
+       I have 2 brothers and 1 sister.</p>
+    <p>I am hard working.I am weak in communicating.My philosophy of <br>
+       learning is to take problem and then learn the concepts and solve it.</p>
+    <p>My aim is to become a software engineer.</p>
+    <p>My hobbies are solving puzzles,playing table tennis,cricket,coding.<br>
+       I like watching comedy shows and movies. And that is all about me.</p>
+    <p>Thank you</p>
+  </section>
+</body>
+</html>
